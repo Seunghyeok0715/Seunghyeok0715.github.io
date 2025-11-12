@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Adaptive-3D-Reconstruction
 excerpt: 'FCM is a training-free, likelihood-guided diffusion update that auto-tunes step sizes via forward-mode autodiff and curvature probes, enabling fast, stable 3D point-cloud reconstruction from single/multi-view inputs—no retraining.'
 date: 2025-10-29
-venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems (**Spotlight**)'
+venue: 'The Thirty-Ninth Annual Conference on Neural Information Processing Systems(NeurIPS), Spotlight'
 paperurl: 'https://openreview.net/pdf?id=IJLqUjtrls'
 citation: 'Shin, Seunghyeok; Kim, Dabin; Lim, Hongki. (2025). Adaptive 3D Reconstruction via Diffusion Priors and Forward Curvature-Matching Likelihood Updates. <i>Proceedings of the Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS 2025)</i>.'
 ---
