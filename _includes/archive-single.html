@@ -33,6 +33,18 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.collection == 'publications' %}
+      {% assign author_list = nil %}
+      {% if post.authors %}
+        {% assign author_list = post.authors | join: ", " %}
+      {% elsif post.author %}
+        {% assign author_list = post.author %}
+      {% endif %}
+      {% if author_list %}
+        <p class="page__authors"><i class="fa fa-user" aria-hidden="true"></i> {{ author_list }}</p>
+      {% endif %}
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
