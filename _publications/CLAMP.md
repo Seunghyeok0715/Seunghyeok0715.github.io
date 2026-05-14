@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/CLAMP
 excerpt: >
-  CLAMP is a training-free diffusion posterior sampler for inverse problems that replaces hand-tuned scalar likelihood guidance with geometry-aware, per-noise-level damped Gauss–Newton corrections in diffusion-state coordinates. It pulls likelihood sensitivity back through the denoiser, uses a one-sided curvature model with manifold-aligned rank-one damping, solves each correction with matrix-free GMRES, and advances sampling via a variance-preserving Langevin transition. CLAMP supports pixel and latent diffusion priors for linear and nonlinear forward operators, achieving competitive or improved reconstruction quality with favorable runtime on FFHQ/ImageNet inverse problems and accelerated MRI. [OpenReview](https://openreview.net/forum?id=x9Cy1wydfo) · [PDF](https://openreview.net/pdf?id=x9Cy1wydfo)
+  CLAMP is a diffusion posterior sampler for inverse problems that replaces hand-tuned scalar likelihood guidance with geometry-aware, per-noise-level damped Gauss–Newton corrections in diffusion-state coordinates. It pulls likelihood sensitivity back through the denoiser, uses a one-sided curvature model with manifold-aligned rank-one damping, solves each correction with matrix-free GMRES, and advances sampling via a variance-preserving Langevin transition. [OpenReview](https://openreview.net/forum?id=x9Cy1wydfo) · [PDF](https://openreview.net/pdf?id=x9Cy1wydfo)
 authors:
   - Seunghyeok Shin *
   - Minwoo Kim *
