@@ -11,7 +11,7 @@ authors:
   - Dabin Kim
   - Hongki Lim
 date: 2026-05-01
-venue: 'International Conference on Machine Learning (ICML) 2026'
+venue: 'The Forty-Third International Conference on Machine Learning (ICML)'
 paperurl: 'https://openreview.net/pdf?id=x9Cy1wydfo'
 # citation: 'Shin, Seunghyeok; Kim, Minwoo; Kim, Dabin; Lim, Hongki. (2026). Geometry-Correct Diffusion Posterior Sampling with Denoiser-Pullback Curvature Guidance and Manifold-Aligned Damping. In <i>Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</i>. PMLR 306.'
 ---

@@ -10,7 +10,7 @@ authors:
   - Seunghyeok Shin *
   - Hongki Lim 
 date: 2026-01-26
-venue: 'International Conference on Learning Representations (ICLR) 2026'
+venue: 'The Fourteenth International Conference on Learning Representations (ICLR)'
 paperurl: 'https://openreview.net/pdf?id=voMeZVAkKL'
 # citation: 'Kim, Minwoo; Shin, Seunghyeok; Lim, Hongki. (2026). FAST-DIPS: Adjoint-Free Analytic Steps and Hard-Constrained Likelihood Correction for Diffusion-Prior Inverse Problems. In <i>Proceedings of the International Conference on Learning Representations (ICLR 2026)</i>.'
 ---
