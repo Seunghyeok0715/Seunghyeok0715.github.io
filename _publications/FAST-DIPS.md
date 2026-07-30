@@ -21,3 +21,4 @@ At each sampling step, a pretrained diffusion denoiser produces a clean estimate
 
 FAST-DIPS also supports latent diffusion by composing the measurement operator with the decoder, and provides pixel-space, latent-space, and a hybrid pixel→latent strategy that reduces early overhead while preserving manifold-faithful refinement later in sampling. Across a range of linear and nonlinear inverse problems, FAST-DIPS reports competitive or improved reconstruction quality while significantly reducing runtime compared to prior diffusion-prior baselines.
 
+[OpenReview](https://openreview.net/forum?id=voMeZVAkKL) · [PDF](https://openreview.net/pdf?id=voMeZVAkKL) · [Project page](https://fast-dips.github.io) · [Code](https://github.com/ququlza/FAST-DIPS)
