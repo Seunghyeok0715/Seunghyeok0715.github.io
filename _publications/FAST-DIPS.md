@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/FAST-DIPS
 excerpt: >
-  FAST-DIPS is a training-free diffusion-prior inverse-problem solver that enforces a hard measurement-space feasibility constraint via an adjoint-free ADMM correction with an analytic (or forward-difference) step size, plus decoupled re-annealing. It supports linear/nonlinear forward operators without hand-coded adjoints and includes pixel, latent, and hybrid pixel→latent variants for faster, stable reconstructions. [OpenReview](https://openreview.net/forum?id=voMeZVAkKL) · [PDF](https://openreview.net/pdf?id=voMeZVAkKL) · [Code](https://github.com/ququlza/FAST-DIPS)
+  FAST-DIPS is a training-free diffusion-prior inverse-problem solver that enforces a hard measurement-space feasibility constraint via an adjoint-free ADMM correction with an analytic (or forward-difference) step size, plus decoupled re-annealing. It supports linear/nonlinear forward operators without hand-coded adjoints and includes pixel, latent, and hybrid pixel→latent variants for faster, stable reconstructions. [OpenReview](https://openreview.net/forum?id=voMeZVAkKL) · [PDF](https://openreview.net/pdf?id=voMeZVAkKL) · [Project page](https://fast-dips.github.io) · [Code](https://github.com/ququlza/FAST-DIPS)
 authors:
   - Minwoo Kim *
   - Seunghyeok Shin *

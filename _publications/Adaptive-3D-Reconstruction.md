@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/Adaptive-3D-Reconstruction
 excerpt: >
-  FCM is a training-free, likelihood-guided diffusion update that auto-tunes step sizes via forward-mode autodiff and curvature probes, enabling fast, stable 3D point-cloud reconstruction from single/multi-view inputs. [OpenReview](https://openreview.net/pdf?id=IJLqUjtrls) · [Project page](https://fcm2025.github.io) · [Code](https://github.com/Seunghyeok0715/FCM)
+  FCM is a training-free, likelihood-guided diffusion update that auto-tunes step sizes via forward-mode autodiff and curvature probes, enabling fast, stable 3D point-cloud reconstruction from single/multi-view inputs. [OpenReview](https://openreview.net/pdf?id=IJLqUjtrls) · [PDF](https://openreview.net/pdf?id=IJLqUjtrls) · [Project page](https://fcm2025.github.io) · [Code](https://github.com/Seunghyeok0715/FCM)
 authors:
   - Seunghyeok Shin
   - Dabin Kim
