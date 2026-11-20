@@ -16,4 +16,4 @@ More broadly, my research seeks to develop methods for representing and learning
 diverse settings, including inverse problems and multimodal learning. I am particularly interested in how generative 
 models can capture complex dependencies between different forms of information and enable reliable conditional generation and inference.
 
-My work has appeared at **NeurIPS 2025 (Spotlight)**, **ICLR 2026**, and **ICML 2026**. I also serve as a reviewer for **NeurIPS 2026**.
+My work has appeared at **NeurIPS 2025 (Spotlight) and 2026**, **ICLR 2026**, and **ICML 2026**. I also serve as a reviewer for **NeurIPS 2026**.
